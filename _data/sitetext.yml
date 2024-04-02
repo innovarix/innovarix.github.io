@@ -13,29 +13,38 @@ en: &DEFAULT_EN
   header:
     title: Crafting tomorrow, today!
     text: Innovarix
-    button: More
+    button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Expertise in-house"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Cloud Solution Architecture"
+        desc: "Leveraging extensive experience in designing, developing, and implementing **scalable cloud-based solutions**, modernizing infrastructure and applications to thrive in the cloud era. Whether it's transitioning to cloud-native applications, optimizing existing cloud architectures for performance and cost, or integrating cloud services for enhanced capabilities."
+        icon: fas fa-cloud #find more at https://fontawesome.com/icons
+      - title: "Agile Software Development"
+        desc: "Offering expertise in **Agile methodologies and best practices**, enhancing team performance and software quality through efficient project management, mentorship, and the application of *Lean* and *XP principles*. Clients receive guidance on implementing or refining Agile practices, hands-on code contributions, and strategies for continuous improvement."
+        icon: fas fa-laptop-code
+      - title: "System Modernization & Integration"
+        desc: "**Strategic modernization** of legacy systems, focusing on upgrading and integrating them with modern technologies and architectures such as microservices, event-driven systems, and cloud services. Improving system *scalability*, *performance*, and *maintainability* while ensuring minimal disruption to existing operations."
+        icon: fas fa-wrench
+      - title: "Custom Software Development"
+        desc: "**End-to-end custom software development**, from initial consultation and system design to implementation and deployment. We are emphasizing *clean architecture*, *maintainability*, and *business alignment*. Fulfill unique business needs across various domains."
+        icon: fas fa-fingerprint
+      - title: "Performance Optimization & Troubleshooting"
+        desc: "*Identify bottlenecks*, *inefficient code paths*, and *scalability issues* in your applications. Through a combination of **performance testing, code review, and system monitoring**, get tailored recommendations and solutions to improve software's speed, responsiveness, and resource utilization."
+        icon: fas fa-rocket
+      - title: "Developer Coaching & Mentorship"
+        desc: "Fostering the **professional growth and development of software engineering teams** through personalized coaching and mentoring. Enhancing technical skills, agile practices, and team collaboration via *one-on-one sessions*, *team workshops*, or *code reviews*."
+        icon: fas fa-user-graduate
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "TECH"
+    text: "Here are the tools we use to achieve our goals."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
