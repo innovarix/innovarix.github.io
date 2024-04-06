@@ -42,45 +42,45 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "TECH"
-    text: "Here are the tools we use to achieve our goals."
+    text: "Here are some of the tools we use to achieve our goals."
     section: portfolio
     closebutton: "Close"
 
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+  # timeline:
+  #   title: "Timeline"
+  #   text: "Lorem ipsum timeline"
+  #   section: timeline
+  #   # left is the default
+  #   #start_align: "left"
+  #   events:
+  #     - title: "Our Humble Beginnings"
+  #       year: "2009-2011"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  #       image: assets/img/timeline/1.jpg
+  #       alt:
+  #     - title: "An Agency is Born"
+  #       year: "March 2011"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  #       image: assets/img/timeline/2.jpg
+  #       alt:
+  #     - title: "Jekyll Theme is created"
+  #       year: "2019"
+  #       desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+  #       image: assets/img/timeline/3.jpg
+  #       alt: image alt text
+  #     - title: "Title"
+  #       year: "2009-2011"
+  #       desc: "Your description here, **Markdown** is fully supported."
+  #       image: assets/img/timeline/4.jpg
+  #       alt:
+  #       # you can enforce the alignment
+  #       align: right
+  #   end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Founded in **2024**, **Innovarix** stands at the forefront of technology consultancy, committed to **solving business challenges** through innovative technical solutions. Our inception was driven by a simple yet powerful vision: to **transform businesses** by harnessing the power of technology in the most effective and future-proof ways possible.  \n\nAt Innovarix, we believe that every business problem presents an opportunity for innovation, and our mission is to unlock that potential for our clients. We are dedicated to:  \n**Innovating solutions** that tackle immediate challenges while anticipating future trends. **Empowering businesses** with technology that ensures longevity and growth. **Fostering partnerships** that turn visionary concepts into reality. \n\n Developing scalable applications using the **.NET platform**, expertly wielding **C#** and **F#** to produce software that is not only reliable but also blazingly fast.  \n\nInnovarix is more than just a consultancy company. We are your partners in innovation, combining deep technical expertise with a keen understanding of your business. Our unique approach includes:  **Crafting bespoke solutions** that solve current challenges and anticipate future trends. **Empowering your team** through coaching and mentoring to foster a culture of continuous improvement and technological excellence.  \n\n**Why Choose Us?** \n\n What sets us apart is our commitment to not just delivering solutions but also empowering your team. With Innovarix, you gain: \n **A partner in innovation**, ensuring your business remains competitive in a rapidly evolving technological landscape.  \n **A lasting impact** on your organization, promoting a culture of excellence and innovation."
     section: about
 
   clients:
