@@ -42,7 +42,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "TECH"
-    text: "Here are some of the tools we use to achieve our goals."
+    text: "Here are some of the tools in a toolbox to achieve the goals."
     section: portfolio
     closebutton: "Close"
 
@@ -78,9 +78,9 @@ en: &DEFAULT_EN
   #   end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Founded in **2024**, **Innovarix** stands at the forefront of technology consultancy, committed to **solving business challenges** through innovative technical solutions. Our inception was driven by a simple yet powerful vision: to **transform businesses** by harnessing the power of technology in the most effective and future-proof ways possible.  \n\nAt Innovarix, we believe that every business problem presents an opportunity for innovation, and our mission is to unlock that potential for our clients. We are dedicated to:  \n**Innovating solutions** that tackle immediate challenges while anticipating future trends. **Empowering businesses** with technology that ensures longevity and growth. **Fostering partnerships** that turn visionary concepts into reality. \n\n Developing scalable applications using the **.NET platform**, expertly wielding **C#** and **F#** to produce software that is not only reliable but also blazingly fast.  \n\nInnovarix is more than just a consultancy company. We are your partners in innovation, combining deep technical expertise with a keen understanding of your business. Our unique approach includes:  **Crafting bespoke solutions** that solve current challenges and anticipate future trends. **Empowering your team** through coaching and mentoring to foster a culture of continuous improvement and technological excellence.  \n\n**Why Choose Us?** \n\n What sets us apart is our commitment to not just delivering solutions but also empowering your team. With Innovarix, you gain: \n **A partner in innovation**, ensuring your business remains competitive in a rapidly evolving technological landscape.  \n **A lasting impact** on your organization, promoting a culture of excellence and innovation."
+    title: "About"
+    text: "The story"
+    body: "Founded in **2024**, **Innovarix** stands at the forefront of technology consultancy and is committed to solving business challenges through innovative technical solutions. A simple yet powerful vision drove inception: to **transform businesses** by harnessing the power of technology in the most effective and future-proof ways possible.\n\nEvery business problem presents an opportunity for innovation, and the company's mission is to unlock that potential for our clients. The goals:  \n**Innovating solutions** that tackle immediate challenges while anticipating future trends. \n\n **Empowering businesses** with technology that ensures longevity and growth. \n\n **Fostering partnerships** that turn visionary concepts into reality. \n\n Developing scalable applications using the **.NET platform**, expertly wielding **C#** and **F#** to produce software that is not only reliable but also blazingly fast. \n\nInnovarix is more than just a consultancy company. We are your partners in innovation, combining deep technical expertise with a keen understanding of your business. Our unique approach includes:  **Crafting bespoke solutions** that solve current challenges and anticipate future trends. **Empowering your team** through coaching and mentoring to foster a culture of continuous improvement and technological excellence."
     section: about
 
   clients:
@@ -119,7 +119,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Contact"
     text: "Call +3640754777"
     section: contact
     name: "Name*"
