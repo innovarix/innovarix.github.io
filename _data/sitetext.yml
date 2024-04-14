@@ -22,22 +22,22 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Cloud Solution Architecture"
-        desc: "Leveraging extensive experience in designing, developing, and implementing **scalable cloud-based solutions**, modernizing infrastructure and applications to thrive in the cloud era. Whether it's transitioning to cloud-native applications, optimizing existing cloud architectures for performance and cost, or integrating cloud services for enhanced capabilities."
+        desc: "Harness extensive expertise in crafting, developing, and deploying scalable cloud solutions tailored to elevate your business. Dedicated to modernizing your infrastructure and applications to excel in the cloud era. Whether transitioning to **cloud-native applications**, optimizing current cloud architectures, or integrating advanced cloud services to enhance capabilities—**your goals are the focus**."
         icon: fas fa-cloud #find more at https://fontawesome.com/icons
       - title: "Agile Software Development"
-        desc: "Offering expertise in **Agile methodologies and best practices**, enhancing team performance and software quality through efficient project management, mentorship, and the application of *Lean* and *XP principles*. Clients receive guidance on implementing or refining Agile practices, hands-on code contributions, and strategies for continuous improvement."
+        desc: "Specializing in **Agile methodologies and best practices** to enhance team performance and software quality through effective project management, mentorship, and the application of Lean and XP principles. Clients receive tailored guidance on adopting or refining Agile practices, direct code contributions, and strategies for continuous improvement."
         icon: fas fa-laptop-code
       - title: "System Modernization & Integration"
-        desc: "**Strategic modernization** of legacy systems, focusing on upgrading and integrating them with modern technologies and architectures such as microservices, event-driven systems, and cloud services. Improving system *scalability*, *performance*, and *maintainability* while ensuring minimal disruption to existing operations."
+        desc: "Specialize in **strategically modernizing legacy systems**, upgrading and integrating them with modern technologies and architectures like microservices, event-driven systems, and cloud services. This approach enhances system scalability, performance, and maintainability, all while ensuring minimal disruption to existing operations."
         icon: fas fa-wrench
       - title: "Custom Software Development"
-        desc: "**End-to-end custom software development**, from initial consultation and system design to implementation and deployment. We are emphasizing *clean architecture*, *maintainability*, and *business alignment*. Fulfill unique business needs across various domains."
+        desc: "Offering **end-to-end custom software development**, from initial consultation and system design to implementation and deployment. Emphasis is placed on clean architecture, maintainability, and alignment with business objectives. Designed to fulfill unique business needs across various domains."
         icon: fas fa-fingerprint
       - title: "Performance Optimization & Troubleshooting"
-        desc: "*Identify bottlenecks*, *inefficient code paths*, and *scalability issues* in your applications. Through a combination of **performance testing, code review, and system monitoring**, get tailored recommendations and solutions to improve software's speed, responsiveness, and resource utilization."
+        desc: "Focus on identifying bottlenecks, inefficient code paths, and scalability issues in applications. Utilize performance testing, code review, and system monitoring to provide **tailored recommendations and solutions** that enhance software speed, responsiveness, and resource utilization."
         icon: fas fa-rocket
       - title: "Developer Coaching & Mentorship"
-        desc: "Fostering the **professional growth and development of software engineering teams** through personalized coaching and mentoring. Enhancing technical skills, agile practices, and team collaboration via *one-on-one sessions*, *team workshops*, or *code reviews*."
+        desc: "Enhance the **professional growth and development of software engineering teams** with personalized coaching and mentoring. Services aim to boost technical skills, agile practices, and team collaboration through one-on-one sessions, team workshops, and code reviews."
         icon: fas fa-user-graduate
 
   portfolio:
