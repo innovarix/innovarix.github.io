@@ -83,23 +83,23 @@ en: &DEFAULT_EN
     body: "Founded in **2024**, **Innovarix** stands at the forefront of technology consultancy and is committed to solving business challenges through innovative technical solutions. A simple yet powerful vision drove inception: to **transform businesses** by harnessing the power of technology in the most effective and future-proof ways possible.\n\nEvery business problem presents an opportunity for innovation, and the company's mission is to unlock that potential for our clients. The goals:  \n**Innovating solutions** that tackle immediate challenges while anticipating future trends. \n\n **Empowering businesses** with technology that ensures longevity and growth. \n\n **Fostering partnerships** that turn visionary concepts into reality. \n\n Developing scalable applications using the **.NET platform**, expertly wielding **C#** and **F#** to produce software that is not only reliable but also blazingly fast. \n\nInnovarix is more than just a consultancy company. We are your partners in innovation, combining deep technical expertise with a keen understanding of your business. Our unique approach includes:  **Crafting bespoke solutions** that solve current challenges and anticipate future trends. **Empowering your team** through coaching and mentoring to foster a culture of continuous improvement and technological excellence."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "TASK FORCE"
