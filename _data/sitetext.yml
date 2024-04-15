@@ -104,7 +104,7 @@ en: &DEFAULT_EN
   team:
     title: "TASK FORCE"
     text: "Swiss Army Man"
-    subtext: My journey is marked by a deep passion for solving complex business challenges through cutting-edge technological solutions. My expertise spans across developing scalable software, architecting robust cloud solutions, and leading high-performing teams to success. You can find more info about me by following [this link](https://dnovhorodov.github.io/online-cv/).
+    subtext: My journey is marked by a deep passion for solving complex business challenges through cutting-edge technological solutions. My expertise spans across developing scalable software, architecting robust cloud solutions, and leading high-performing teams to success. You can find more info about me by following [this link](https://danyl-novhorodov.info).
     section: team
     people:      
       - name: "Danyl Novhorodov"
