@@ -135,6 +135,7 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
+    kvk: 93762550
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"
@@ -146,6 +147,7 @@ en: &DEFAULT_EN
       #   icon: "fab fa-github"
       # - url: https://instagram.com
       #   icon: "fab fa-instagram"
+    
 en-US:
   <<: *DEFAULT_EN
 en-CA:
