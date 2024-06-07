@@ -136,6 +136,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     kvk: 93762550
+    vat: NL005041115B42
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"
